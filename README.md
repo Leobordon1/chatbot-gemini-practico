@@ -20,3 +20,6 @@ Proyecto de ejemplo que implementa un chatbot en consola con:
 - Cuenta / API key de Gemini (GEMINI_API_KEY)
 
 Dependencias principales (incluidas en `requirements.txt`):
+
+## Cambios recientes
+- El modelo actualizado es **gemini-2.5-flash** (antes se usaba gemini-1.5-flash).
